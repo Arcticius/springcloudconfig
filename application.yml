@@ -6,11 +6,11 @@ spring:
 ---
 spring:
   profiles: dev
-    application: 
-      name: springcloud-config-test-dev
+  application: 
+    name: springcloud-config-test-dev
       
 ---
 spring:
   profiles: default
-    application: 
-      name: springcloud-config-test-default
+  application: 
+    name: springcloud-config-test-default
