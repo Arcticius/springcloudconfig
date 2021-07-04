@@ -7,7 +7,7 @@ server:
   port: 8101
 
 hnuspringcloud:
-  hello: dev-v0.2
+  hello: dev-v0.3
   
 spring:
   profiles: dev
